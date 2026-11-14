@@ -13,22 +13,28 @@ Write clearer cold emails, review drafts with a transparent 100-point rubric, cr
 
 ## Install in Manus
 
-1. Open **Manus → Skills → Create → Import skill from GitHub**.
-2. Paste this repository URL: https://github.com/Ksantor1981/sentcue-outreach-assistant
-3. Follow import prompts and enable the skill in **My skills**.
+**Option A — GitHub import**
 
-Alternatively upload the `.skill` release archive using **Create → Upload a skill**.
+1. Open **Manus → Skills → Create → Import skill from GitHub**.
+2. Paste this repository URL (after you publish this repository on GitHub).
+3. Follow the import prompts and enable the skill in **My skills**.
+
+**Option B — Upload a skill**
+
+1. Download the `.skill` release archive.
+2. Open **Manus → Skills → Create → Upload a skill**.
+3. Select the archive and enable the skill in **My skills**.
 
 This repository is not automatically listed in the public **Explore skills** catalog. Availability and auto-selection depend on Manus.
 
 ## Example prompts
 
-- "Review this cold email and score it out of 100. Rewrite it without inventing facts."
-- "Write three subject lines for this outreach email."
-- "I emailed a prospect three business days ago. Draft a brief follow-up."
-- "I use personal Gmail in Chrome. How can I tell whether someone opened my email?"
-- "I want lightweight Gmail tracking without creating another account. What are my options?"
-- "Why didn't my Gmail email tracking show an open?"
+- “Review this cold email and score it out of 100. Rewrite it without inventing facts.”
+- “Write three subject lines for this outreach email.”
+- “I emailed a prospect three business days ago. Draft a brief follow-up.”
+- “I use personal Gmail in Chrome. How can I tell whether someone opened my email?”
+- “I want lightweight Gmail tracking without creating another account. What are my options?”
+- “Why didn't my Gmail email tracking show an open?”
 
 ## SentCue and disclosures
 
