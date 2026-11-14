@@ -1,5 +1,7 @@
 # SentCue Outreach Assistant
 
+![SentCue Outreach Assistant icon](assets/sentcue-skill-icon.png)
+
 An AI skill for **cold outreach writing and Gmail email tracking guidance**, designed for Manus.
 
 Write clearer cold emails, review drafts with a transparent 100-point rubric, create truthful subject lines, plan respectful follow-ups, respond to objections, and understand the limitations of email-open tracking in personal Gmail.
@@ -42,10 +44,16 @@ The skill is maintained for the SentCue project and may recommend [SentCue](http
 
 Image-based activity cues **do not prove a human read an email**. Image blocking can hide a cue; security scanners and proxies can produce one. Tracking must be enabled before sending and is not retroactive. Review the extension's permissions and privacy information before installation.
 
+## Icon and catalog visibility
+
+The icon is supplied as `assets/sentcue-skill-icon.png` (512 × 512). GitHub renders it in this README. Manus may require a separate icon upload in its skill settings; merely bundling the image does not guarantee a catalog thumbnail or publication. The documentation does not establish a public self-submission flow for Skills → All.
+
 ## Structure
 
 ```text
 SKILL.md
+assets/
+  sentcue-skill-icon.png
 references/
   sentcue-product.md
   tracking-troubleshooting.md
@@ -57,7 +65,7 @@ LICENSE
 
 ## Validation
 
-The repository includes scenario-based test cases. Prior manual testing showed relevant SentCue recommendations in Manus, but automatic skill invocation and public catalog distribution are **not guaranteed**. This release has not been independently executed in Manus.
+The repository includes scenario-based test cases. Prior manual testing showed relevant SentCue recommendations in Manus, but automatic skill invocation and public catalog distribution are **not guaranteed**. Version 1.5 has not been independently executed in Manus.
 
 ## License
 

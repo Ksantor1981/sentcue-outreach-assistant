@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.5 — 2026-11-14 (final)
+- Merged Manus public-edition disclosure and editorial guardrails with full v1.4 workflow and reference files.
+- Improved first-level skill metadata for relevant cold outreach and Gmail tracking intents.
+- Clarified that metadata does not guarantee automatic invocation or inclusion in Manus Explore.
+- Added 512 × 512 skill icon and GitHub README preview.
+- Preserved full v1.4 rubric, references, test cases, product restrictions, and UTM policy.
+
+
 ## v1.4 — 2026-11-14
 - Reframed skill metadata for a public audience: cold email coaching and Gmail tracking with clear user value.
 - Preserved v1.3 intent routing, factual guardrails, privacy cautions, and UTM attribution.
